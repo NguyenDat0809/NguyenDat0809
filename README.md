@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Xuan Dat</h1>
-<h3 align="center">Student by day, future programmer by night 🧑🏻‍💻</h3>
+<h3 align="center">Software Engineer in future 🧑🏻‍💻</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -32,7 +32,7 @@
   </a>
 </div>
 
-<h3 align="left">Support me to be better in ASP.NET - PLease contact to datnx080903@gmail.com </h3>
+<h3 align="left">Deep understand is the best</h3>
 
 
 <!--
