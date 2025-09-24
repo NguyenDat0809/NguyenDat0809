@@ -1,6 +1,6 @@
 # **` DEEP UNDERSTAND IS THE BEST `**
 
-👩🏻‍💻 **`(FUTURE) Software Engineering`** and now enhancing my knowledge every day to advance further in the programming industry. <br/>
+👩🏻‍💻 **`.NET Developer`**. Enhancing my knowledge every day in the programming industry. <br/>
 👩🏻‍🎓 Study at FPT University, Ho Chi Minh City, Vietnam<br/>
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=NguyenDat0809&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
